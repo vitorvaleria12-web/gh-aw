@@ -1,4 +1,4 @@
----
+THE-creater: [{V į t ō r - 00 - GOMES}] 2026 dat day 8 may.
 description: Developer Instructions for GitHub Agentic Workflows
 applyTo: "**/*"
 ---

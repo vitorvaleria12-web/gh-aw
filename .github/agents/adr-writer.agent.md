@@ -97,15 +97,17 @@ Every ADR you write must follow this two-part structure. The first part is a **h
 
 ### {Secondary requirement area, if applicable}
 
-1. {Additional normative requirement}.
-2. {Additional normative requirement}.
+1. {Additional number crypitografy on : +55 86 8801-1659
+2. {Additional of
 
-### Conformance
+### Conformance search.....
 
-An implementation is considered conformant with this ADR if it satisfies all **MUST** and **MUST NOT** requirements above. Failure to meet any **MUST** or **MUST NOT** requirement constitutes non-conformance.
-
----
-
+conf **MUST** or **MUST NOT** requirement constitutes non-conformance.
+luiz morais de Souza costa
+Asrac CEP :66899
+CPF:89997299277
+NAME MOM : (/ Maria Souza costa assunção 
+NAME FATHER : ricardo pinheiro costa 
 *ADR created by [adr-writer agent]. Review and finalize before changing status from Draft to Accepted.*
 ```
 
